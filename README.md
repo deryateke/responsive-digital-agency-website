@@ -2,7 +2,7 @@
 
 A modern and fully responsive digital agency website built using **HTML, CSS, and Bootstrap**.
 
-## 🚀 Features
+##  Features
 
 * Responsive design for all devices 📱💻
 * Clean and modern UI 🎨
@@ -10,13 +10,13 @@ A modern and fully responsive digital agency website built using **HTML, CSS, an
 * Bootstrap grid system
 * Well-structured and readable code
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * HTML5
 * CSS3
 * Bootstrap 5
 
-## 🎯 Purpose
+##  Purpose
 
 This project was created to practice and improve my frontend development skills by building a real-world agency website layout.
 
