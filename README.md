@@ -17,6 +17,7 @@ This project is a responsive web interface built using **HTML, CSS, and Bootstra
 This project was created to practice and improve my frontend development skills by building a real-world agency website layout.
 
 # Screenshot
+<img src="digital-agency.gif" />
 
 
 
