@@ -4,8 +4,8 @@ A modern and fully responsive digital agency website built using **HTML, CSS, an
 
 ##  Features
 
-* Responsive design for all devices 📱💻
-* Clean and modern UI 🎨
+* Responsive design for all devices 
+* Clean and modern UI 
 * Smooth scrolling navigation
 * Bootstrap grid system
 * Well-structured and readable code
